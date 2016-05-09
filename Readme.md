@@ -10,4 +10,5 @@ HTML output includes reference to simple CSS which imporves look of the output. 
 
 Download:
 XSLPentahoTransformation/XML/transformation.xslt
+XSLPentahoTransformation/XML/table_style0.css
 XSLPentahoTransformation/XSLPentahoTransformation.exe
