@@ -12,3 +12,22 @@ To use this tool, you need to download:<br/>
 XSLPentahoTransformation/XML/transformation.xslt<br/>
 XSLPentahoTransformation/XML/table_style0.css<br/>
 XSLPentahoTransformation/XSLPentahoTransformation.exe<br/>
+
+[09-05-2016]
+Following types of steps are modeled:
+Constant<br/>
+CMDBLookUp<br/>
+CMDBOutput<br/>
+TableInput<br/>
+FilterRows<br/>
+GetVariable<br/>
+ScriptValueMod<br/>
+AROutput<br/>
+ARInput<br/>
+SelectValues<br/>
+SetValueConstant<br/>
+SortRows<br/>
+Unique<br/>
+TypeExitExcelWriterStep<br/>
+TextFileOutput<br/>
+Calculator<br/>
