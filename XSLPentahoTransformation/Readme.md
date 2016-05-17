@@ -13,8 +13,17 @@ XSLPentahoTransformation/XML/transformation.xslt<br/>
 XSLPentahoTransformation/XML/table_style0.css<br/>
 XSLPentahoTransformation/XSLPentahoTransformation.exe<br/>
 
-[09-05-2016]
-Following types of steps are modeled:
+[17-05-2016]<br/>
+Added steps<br/>
+SwitchCase<br/>
+CMDBInput<br/>
+DBLookup<br/>
+DetectLastRow<br/>
+SetValueField<br/>
+<br/>
+<br/>
+[09-05-2016]<br/>
+Following types of steps are modeled:<br/>
 Constant<br/>
 CMDBLookUp<br/>
 CMDBOutput<br/>
