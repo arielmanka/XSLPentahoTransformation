@@ -14,7 +14,7 @@ XSLPentahoTransformation/XML/table_style0.css<br/>
 XSLPentahoTransformation/XSLPentahoTransformation.exe<br/>
 
 [09-05-2016]
-Following types of steps are modeled:</br>
+Following types of steps are modeled:
 Constant<br/>
 CMDBLookUp<br/>
 CMDBOutput<br/>
