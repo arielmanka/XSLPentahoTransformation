@@ -14,7 +14,7 @@ XSLPentahoTransformation/XML/table_style0.css<br/>
 XSLPentahoTransformation/XSLPentahoTransformation.exe<br/>
 
 [17-05-2016]<br/>
-New types of steps added to transformation1.1.xsl</br>
+New types of steps added to transformation1.1.xslt</br>
 SwitchCase<br/>
 CMDBInput<br/>
 DBLookup<br/>
