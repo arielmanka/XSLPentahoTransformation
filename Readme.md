@@ -9,7 +9,7 @@ This example takes file QuickWin_Load_Services.ktr, applies transformation.xsl a
 HTML output includes reference to simple CSS which imporves look of the output. The CSS file should be kept in the same directory as the output files
 
 To use this tool, you need to download:<br/>
-XSLPentahoTransformation/XML/transformation.xslt<br/>
+XSLPentahoTransformation/XML/transformation.xslt (or newer)<br/>
 XSLPentahoTransformation/XML/table_style0.css<br/>
 XSLPentahoTransformation/XSLPentahoTransformation.exe<br/>
 
