@@ -1,35 +1,38 @@
 
-	.datagrid table {
-		border:1px solid #b0b0b0;
-		border-collapse:collapse;
-		padding:5px;
-		font-family: sans-serif;
-	}
-	.datagrid caption {
-		text-align: left; 
-		background:#F0F0F0;
-		padding:5px;
-		font-size: 18px;
-		font-weight: bold;		
-	}
-	
-	.datagrid th {
-	   background-color: #0070A8;
-    	color: #eeeeee;
-		border:1px solid #b0b0b0;
-		padding:5px;
-		text-align: left;
-	}
-	
-	.datagrid td tr:nth-child(even) {
-    background-color: #EEEEEE;
-    }
+.datagrid table{
+    border: 1px solid #b0b0b0;
+    border-collapse: collapse;
+    padding: 5px;
+    font-family: sans-serif;
+}
+.datagrid caption{
+    text-align: left;
+    background: #F0F0F0;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
 
-	.datagrid tr:nth-child(even) {
+.datagrid th{
+    background-color: #0070A8;
+    color: #eeeeee;
+    border: 1px solid #b0b0b0;
+    padding: 5px;
+    text-align: left;
+}
+
+.datagrid td tr:nth-child(even){
+    background-color: #EEEEEE;
+}
+
+.datagrid tr:nth-child(even){
     background-color: #dddddd;
-    }
-         
-	.datagrid  td {
-		border:1px solid #b0b0b0;
-		padding:5px;
-	}
+}
+
+.datagrid td{
+    border: 1px solid #b0b0b0;
+    padding: 5px;
+}
+h1{
+    font-family: sans-serif;
+}
